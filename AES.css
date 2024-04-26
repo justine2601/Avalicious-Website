@@ -1,0 +1,47 @@
+#body{
+    background-image: url('images/AVALICIOUS\ EVENT\ SOLUTION.png');
+            background-position: center; 
+            background-repeat: repeat; 
+}
+@font-face {
+    font-family: 'GoodVibrationsROBScript';
+    src: url('file:///C:/Users/ajce2/Desktop/Avalicious%20Website/GoodVibrations%20Script.ttf');
+}
+
+#title {
+    font-family: 'GoodVibrationsROBScript', sans-serif;
+
+    font-size: 7vw;
+    margin-top: 15px;
+}#logo{
+    width: 150px;
+    height: auto;
+}
+#img_slideshow{
+    width: 400px;
+    height: 500px;
+}
+#abt_img{
+    width: auto;
+    height: 700px;
+    padding: 20px;
+    align-content: left;
+}
+#imge_dc{
+    width: auto;
+    height: 250px;
+}
+#abt{
+    font-size: large;
+}
+#dsc{
+    font-size:20px;
+    font-weight: bold;
+    color: white;
+    -webkit-text-stroke: 0.5px black; 
+}
+#ttl{
+    font-size: 25px;
+    color: white;
+    -webkit-text-stroke: 0.5px black; 
+}
